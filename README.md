@@ -1,0 +1,1 @@
+The scripts in this repository help me to manage my TrueNAS homelab.
